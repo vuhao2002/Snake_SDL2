@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620060501 source:c:\users\haovu\onedrive\documents\code blocks\snakecpp\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
